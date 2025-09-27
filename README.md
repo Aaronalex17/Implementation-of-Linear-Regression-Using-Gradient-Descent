@@ -22,8 +22,8 @@ that can be used for predictions.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: sanjay kumar 
-RegisterNumber:  212224230242
+Developed by: aaron alex p 
+RegisterNumber:  212224230002
 */
 
 import numpy as np
